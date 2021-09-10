@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanishkkumarPatoliya
 - 👀 I’m interested in Arttificial Intelligence and Machine Learning.
-- 🌱 I’m currently pursuing Bachelor of Computer Science at Carleton University, Ottawa, Canada
+- 🌱 I’m currently pursuing Bachelor of Computer Science at Carleton University, Ottawa, Canada.
 - 📫 Reach out to me on patoliyakanishk23@gmail.com
 
 <!---
